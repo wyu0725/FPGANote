@@ -1,0 +1,7 @@
+\contentsline {part}{I\hspace {1em}FPGA介绍}{2}{part.1}
+\contentsline {part}{II\hspace {1em}Xilinx White Paper}{3}{part.2}
+\contentsline {chapter}{\numberline {1}WP 275: Get your Priorities Right - Make your Design Up to 50\% Smaller}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}基本的逻辑实现}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Single Level Logic}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Two Level Logic}{5}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}D触发器中的同步和异步}{6}{section.1.2}

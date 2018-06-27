@@ -1,0 +1,7 @@
+\BOOKMARK [-1][]{part.1}{I FPGA介绍}{}% 1
+\BOOKMARK [-1][]{part.2}{II\040Xilinx\040White\040Paper}{}% 2
+\BOOKMARK [0][]{chapter.1}{1\040WP\040275:\040Get\040your\040Priorities\040Right\040-\040Make\040your\040Design\040Up\040to\04050\045\040Smaller}{part.2}% 3
+\BOOKMARK [1][]{section.1.1}{1.1 基本的逻辑实现}{chapter.1}% 4
+\BOOKMARK [2][]{subsection.1.1.1}{1.1.1\040Single\040Level\040Logic}{section.1.1}% 5
+\BOOKMARK [2][]{subsection.1.1.2}{1.1.2\040Two\040Level\040Logic}{section.1.1}% 6
+\BOOKMARK [1][]{section.1.2}{1.2 D触发器中的同步和异步}{chapter.1}% 7
